@@ -58,13 +58,6 @@ A high-performance, premium enterprise dashboard built with **Angular 17** and *
 3. Open in browser:
    Navigate to `http://localhost:4200`
 
-## 📂 Project Structure
-
-- `src/app/core`: Singleton services, NgRx state, and global components.
-- `src/app/features`: Feature-based modules (CRM, Tasks, Dashboard).
-- `src/app/shared`: Common UI components and utilities.
-- `src/assets`: Design tokens, fonts, and static resources.
-
 ## 🧪 Testing
 
 ```bash
